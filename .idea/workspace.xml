@@ -21,6 +21,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git Bash.lnk" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W2dqVfvyVIEQLC8MgFbzdX27Ok" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -87,6 +91,7 @@
       <workItem from="1579022625673" duration="4251000" />
       <workItem from="1579137985625" duration="7236000" />
       <workItem from="1579311114130" duration="338000" />
+      <workItem from="1579312292650" duration="5691000" />
     </task>
     <servers />
   </component>
@@ -94,10 +99,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1579311446480">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1579314845297">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579311446480" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579314845297" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1578920013766">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -146,14 +151,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1578920013766" />
-    <state x="279" y="57" key="SettingsEditor" timestamp="1579311447187">
+    <state x="279" y="57" key="SettingsEditor" timestamp="1579314847668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579311447187" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1579311114306">
+    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579314847668" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1579312294988">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579311114306" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579312294988" />
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579314828015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1579314828015" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1578694874558">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
